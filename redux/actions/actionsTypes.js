@@ -1,0 +1,7 @@
+export const SHOW_TASKS = 'SHOW_TASKS'
+export const SUCCESS_SHOW_TASKS = 'SUCCESS_SHOW_TASKS'
+export const SHOW_TASK_TO_EDIT = 'SHOW_TASK_TO_EDIT'
+export const SUCCESS_SHOW_TASK_TO_EDIT = 'SUCCESS_SHOW_TASK_TO_EDIT'
+export const ADD_TASK = 'ADD_TASK'
+export const DELETE_TASK = 'DELETE_TASK'
+export const UPDATE_TASK = 'UPDATE_TASK' 
